@@ -14,7 +14,7 @@
                 <camunda:entry key="content-type">application/json</camunda:entry>
               </camunda:map>
             </camunda:inputParameter>
-            <camunda:inputParameter name="url">http://localhost:8084/client/test?cin=14354088&amp;nom=hh&amp;prenom=jjj&amp;salaire=5255&amp;type=CDD&amp;dateNaiss=2020-05-12</camunda:inputParameter>
+            <camunda:inputParameter name="url">http://localhost:8084/client/test?cin=11111111&amp;nom=hh&amp;prenom=jjj&amp;salaire=5255&amp;type=CDD&amp;dateNaiss=2020-05-12</camunda:inputParameter>
             <camunda:inputParameter name="method">GET</camunda:inputParameter>
             <camunda:outputParameter name="object">
               <camunda:script scriptFormat="groovy">import groovy.json.JsonSlurper 
