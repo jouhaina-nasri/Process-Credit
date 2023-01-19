@@ -13,7 +13,6 @@ The project consists of :
 
 # Architecture
 
-## architecture 
 ![architecture](https://user-images.githubusercontent.com/63677147/213566764-426b934a-af06-4183-90d3-1fc844bbd3dd.jpg)
 
 ----
