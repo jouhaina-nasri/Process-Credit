@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP Taha.iml" filepath="$PROJECT_DIR$/.idea/TP Taha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decision/decision.iml" filepath="$PROJECT_DIR$/decision/decision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demande/demande.iml" filepath="$PROJECT_DIR$/demande/demande.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score/score.iml" filepath="$PROJECT_DIR$/score/score.iml" />
+    </modules>
+  </component>
+</project>
