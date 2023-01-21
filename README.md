@@ -1,4 +1,4 @@
-# ProcessCredit
+# Process-Credit
 The process of granting credit to a customer within a bank in Tunisia.
 ---
 
